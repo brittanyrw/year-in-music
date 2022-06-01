@@ -33,7 +33,7 @@ export default function Meta() {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`A statically generated blog example using Next.js and`}
+        content={`Year in Music.`}
       />
       <meta property="og:image" content="" />
       <link rel="preconnect" href="https://fonts.googleapis.com"></link>
