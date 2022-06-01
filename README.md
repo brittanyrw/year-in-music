@@ -164,7 +164,7 @@ http://localhost:3000/api/preview?secret=<CONTENTFUL_PREVIEW_SECRET>&slug={entry
 
 Replace `<CONTENTFUL_PREVIEW_SECRET>` with its respective value in `.env.local`.
 
-![Content preview setup](./docs/entry-preview-setup-example.png)
+![Content preview setup](./docs/entry-preview-setup.png)
 
 Once saved, go to one of the posts you've created and:
 
