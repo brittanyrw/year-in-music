@@ -9,7 +9,7 @@ export default function Index({ preview, allPosts }) {
     <>
       <Layout preview={preview}>
         <Head>
-          <title>Next.js Blog Example with</title>
+          <title>Year In Music</title>
         </Head>
         <Hero />
           {allPosts.length > 0 && <Albums posts={allPosts} />}
