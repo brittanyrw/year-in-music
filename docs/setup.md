@@ -2,6 +2,8 @@
 
 > Don't worry! If you fall behind, the main branch has the completed code and the Readme has detailed instructions.
 
+Workshop Live Captions: [Visit this link to view live captions](https://www.streamtext.net/player?event=ContentfulWS). 
+
 If you would like to code-along during the workshop, you will need the following items:
 
 * Create an account on [contentful.com](https://contentful.com) account. When creating a new account, create an **empty space**. 
