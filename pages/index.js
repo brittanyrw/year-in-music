@@ -9,7 +9,7 @@ export default function Index({ preview, allPosts }) {
     <>
       <Layout preview={preview}>
         <Head>
-          <title>Year In Music</title>
+          <title>Jam with Contentful</title>
         </Head>
         <Hero />
           {allPosts.length > 0 && <Albums posts={allPosts} />}
